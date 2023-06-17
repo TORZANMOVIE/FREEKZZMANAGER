@@ -28,7 +28,7 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•Repo•", url="https://github.com/Itz-JEOL/ROCKY"
+                        "•Repo•", url="https://github.com/TORZANMOVIE/FREEKZZMANAGER"
                     ),
                 ]
             ]
