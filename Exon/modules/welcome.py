@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -266,7 +266,7 @@ def new_member(update: Update, context: CallbackContext):  # sourcery no-metrics
             # Welcome yourself
             elif new_mem.id == bot.id:
                 update.effective_message.reply_text(
-                    "ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @AbishnoiMF ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
+                    "ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴀᴅᴅɪɴɢ ᴍᴇ! ᴊᴏɪɴ @FREEKZZ_BOTZ ꜰᴏʀ ꜱᴜᴘᴘᴏʀᴛ.",
                     reply_to_message_id=reply,
                 )
                 continue
