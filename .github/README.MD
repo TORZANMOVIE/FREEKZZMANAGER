@@ -1,18 +1,12 @@
 
 <h2 align="center">
-    ──「 ʀᴏᴄᴋʏ ᴄᴇᴏ 」──
+    ──「 FREEKZZ MT 」──
 </h2>
 
-FULL KANG OF EXON ROBOT
-ALL CREDITS TO [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂](https://github.com/Abishnoi69)
-AND TEAM
-
-THIS IS KANGED AND IMPORTED FOR YOUTUBE VIDEO
-ALL CREDITS TO RESPECTIVE OWNERS
 
 ## ⚡ (ɢɪᴠᴇ sᴛᴀʀ)
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄᴇᴏ](https://t.me/MKN_GROUPMANAGE_ROBOT)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [FREEKZZ MT](https://t.me/FREEKZZ_MANAGER_BOT)**_
 ━━━━━━━━━━━━━━━━━━━━
 <h3 align="center"> 
     𝗚𝗥𝗢𝗨𝗣  𝗠𝗔𝗡𝗔𝗚𝗘𝗥    
@@ -23,12 +17,6 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄ�
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## How To Deploy
-
-<p align="center">
-<a href="https://youtu.be/rCVMMiMYywk"><img src="https://img.shields.io/badge/Watch%20Tutorial%20On%20YouTube-red.svg?logo=Youtube"></a> </a>                     
-</p>
-
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
@@ -37,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/TORZANMOVIE/FREEKZZMANAGER"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -63,7 +51,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄ�
 - `sudo apt install python3-pip`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ :
-- `git clone https://github.com/Itz-JEOL/ROCKY`
+- `git clone https://github.com/TORZANMOVIE/FREEKZZMANAGER`
 
 - ᴇɴᴛᴇʀ ɪɴ ʀᴇᴘᴏ
 - `cd ROCKYt`
@@ -129,7 +117,7 @@ DATABASE_URL =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ https://customer.elephantsql.com/lo
 MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
 TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
 OWNER_USERNAME =  ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴜsᴇʀɴᴀᴍᴇ ᴡɪᴛʜᴏᴜᴛ ᴛʜᴇ @
-OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id 
+OWNER_ID =  sᴛᴀʀᴛ @botfather & ᴛʏᴘᴇ /id 
 ```
 
 
@@ -149,10 +137,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Exon_Robot & ᴛʏᴘᴇ /id
 </h3>
  : ➻
 
-➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
+➥ [Torzan] × <a href="https://github.com/TORZANMOVIE/" alt="FREEKZZ"></a>  
 
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
-
-➥ [𝐁ʟᴀᴄᴋ ʙᴜʟʟs] × <a href="https://github.com/Black-Bulls-Bots/zerotwobot" alt="Black-Bulls-Bots"> <img src="https://img.shields.io/badge/BlackBullsBots-90302f?logo=github" /></a>  
 
 ━━━━━━━━━━━━━━━━━━━━
