@@ -710,9 +710,9 @@ def main():
         try:
             dispatcher.bot.sendAnimation(
                 f"@{SUPPORT_CHAT}",
-                animation="https://telegra.ph/file/8dea393ddf4fc2e339179.gif",
+                animation="https://graph.org/file/dc9e1199d04826ad4833f.gif",
                 caption=f"""
-ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✨ .....
+ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ  ✨ .....
 
 ━━━━━━━━━━━━━
 ⍟ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/{OWNER_USERNAME})
