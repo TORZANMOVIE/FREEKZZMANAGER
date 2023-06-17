@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69 
+Copyright (c) 2022 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -92,7 +92,7 @@ class CustomFilters:
 
     class _IsAnonChannel(MessageFilter):
         def filter(self, message: Message):
-            if message.from_user and message.from_user.id == 136817688:
+            if message.from_user and message.from_user.id == 5064726202:
                 return True
             return False
 
